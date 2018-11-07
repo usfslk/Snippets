@@ -1,4 +1,5 @@
-// The Promise.race() method can be used to choose the quickest source when there are two similar sources of the same data.
+// The Promise.race() method can be used to choose the quickest source
+// when there are two similar sources of the same data.
 
 var promise1 = new Promise(function(resolve,reject){
     setTimeout(function(){
