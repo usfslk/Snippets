@@ -1,0 +1,5 @@
+Get - used to retrieve an existing data resource
+Head - used to retrieve HTTP headers
+Post - used to create a new data resource
+Put - used to create a new data resource or modify an existing data resource
+Delete - used to delete a data resource
